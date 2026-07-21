@@ -1,6 +1,6 @@
 
 
-# TextBraTS: Modality-Aware Adaptive Text-Visual Fusion
+# A Text-Guided Decision-Support System for Brain Tumor Delineation Under Incomplete MRI: Adaptive Fusion of Radiology Reports with Confidence-Aware Output
 
 Interactive demo for missing-modality brain tumor segmentation with adaptive text-visual fusion.
 
