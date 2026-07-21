@@ -146,7 +146,7 @@ def load_model(weight_path="model_weights.pth"):
             from huggingface_hub import hf_hub_download
             print("Downloading weights from HuggingFace...")
             weight_path = hf_hub_download(
-                repo_id="yoreurehehee/TextBraTS-weights",
+                repo_id="yoreurehehee/Text_Guided_Decision_Support_System",
                 filename="model_weights.pth"
             )
         except Exception as e:
@@ -383,7 +383,7 @@ def build_app():
         ---
         **Paper:** Modality-Aware Adaptive Text-Visual Fusion for Robust Brain Tumor Segmentation with Missing MRI Modalities
 
-        **Model weights:** [HuggingFace](https://huggingface.co/yoreurehehee/TextBraTS-weights) |
+        **Model weights:** [HuggingFace](https://huggingface.co/yoreurehehee/Text_Guided_Decision_Support_System) |
         **Code:** [GitHub](https://github.com/HeeKuk99/Text_guided_decision_support_system)
 
         *This demo uses template-based report generation. The full system uses LLaMA 3-8B
