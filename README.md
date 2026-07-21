@@ -1,14 +1,4 @@
----
-title: TextBraTS - Missing-Modality Brain Tumor Segmentation
-emoji: 🧠
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 4.44.0
-app_file: app.py
-pinned: true
-license: apache-2.0
----
+
 
 # TextBraTS: Modality-Aware Adaptive Text-Visual Fusion
 
