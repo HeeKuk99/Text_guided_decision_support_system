@@ -1,7 +1,6 @@
 """
 ====================================================================
-TextBraTS Demo: Missing-Modality Brain Tumor Segmentation
-with Adaptive Text-Visual Fusion
+A Text-Guided Decision-Support System for Brain Tumor Delineation Under Incomplete MRI: Adaptive Fusion of Radiology Reports with Confidence-Aware Output
 ====================================================================
 Interactive demo for the TextBraTS framework.
 Upload MRI modalities, select missing ones, get segmentation + report.
